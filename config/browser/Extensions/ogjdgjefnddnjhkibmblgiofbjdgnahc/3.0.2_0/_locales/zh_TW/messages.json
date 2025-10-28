@@ -1,0 +1,116 @@
+{
+   "extDes": {
+      "message": "快速管理瀏覽器。"
+   },
+   "extName": {
+      "message": "滑鼠手勢"
+   },
+   "optBottom": {
+      "message": "到底部"
+   },
+   "optCO": {
+      "message": "關閉其他分頁"
+   },
+   "optCW": {
+      "message": "關閉視窗"
+   },
+   "optClose": {
+      "message": "關閉分頁"
+   },
+   "optDBL": {
+      "message": "複製頁籤"
+   },
+   "optEx": {
+      "message": "保存到文件"
+   },
+   "optExDesc": {
+      "message": "導出設置。"
+   },
+   "optHold": {
+      "message": "按住右鍵，"
+   },
+   "optIm": {
+      "message": "載入設置文件"
+   },
+   "optImDesc": {
+      "message": "匯入設定。"
+   },
+   "optLeft": {
+      "message": "左側分頁"
+   },
+   "optMB": {
+      "message": "滑鼠往下移動"
+   },
+   "optMBL": {
+      "message": "滑鼠往左下移動"
+   },
+   "optMBR": {
+      "message": "滑鼠往右下移動"
+   },
+   "optML": {
+      "message": "滑鼠往左移動"
+   },
+   "optMR": {
+      "message": "滑鼠往右移動"
+   },
+   "optMT": {
+      "message": "滑鼠往上移動"
+   },
+   "optMTL": {
+      "message": "滑鼠往左上移動"
+   },
+   "optMTR": {
+      "message": "滑鼠往右上移動"
+   },
+   "optMW": {
+      "message": "最小化視窗"
+   },
+   "optMove": {
+      "message": "鼠標移動"
+   },
+   "optNewTab": {
+      "message": "開新分頁"
+   },
+   "optNext": {
+      "message": "到下一頁"
+   },
+   "optNot": {
+      "message": "請選擇需要的操作"
+   },
+   "optPin": {
+      "message": "是否固定分頁"
+   },
+   "optPrev": {
+      "message": "到上一頁"
+   },
+   "optRefresh": {
+      "message": "重新載入分頁"
+   },
+   "optRes": {
+      "message": "重置為預設值"
+   },
+   "optResDesc": {
+      "message": "將所有手勢恢復到初始狀態。"
+   },
+   "optRestore": {
+      "message": "重新開啟已關閉分頁"
+   },
+   "optRight": {
+      "message": "右側分頁"
+   },
+   "optSB": {
+      "message": "向後滾動滑鼠滾輪"
+   },
+   "optST": {
+      "message": "向前滾動滾輪按鈕"
+   },
+   "optTitle": {
+      "message": "設定"
+   },
+   "optTop": {
+      "message": "到頂部"
+   },
+   "optWheel": {
+      "message": "滾輪控制"
+   }
+}

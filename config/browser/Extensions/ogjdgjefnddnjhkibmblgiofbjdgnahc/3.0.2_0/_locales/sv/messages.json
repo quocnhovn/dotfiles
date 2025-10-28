@@ -1,0 +1,116 @@
+{
+   "extDes": {
+      "message": "Musgester låter dig styra din webbläsare med enkla musrörelser."
+   },
+   "extName": {
+      "message": "Musgest"
+   },
+   "optBottom": {
+      "message": "Skrolla till längst ner på sidan"
+   },
+   "optCO": {
+      "message": "Stäng övriga flikar"
+   },
+   "optCW": {
+      "message": "Stäng fönster"
+   },
+   "optClose": {
+      "message": "Stäng flik"
+   },
+   "optDBL": {
+      "message": "Duplicera flik"
+   },
+   "optEx": {
+      "message": "Spara till fil"
+   },
+   "optExDesc": {
+      "message": "Spara inställningarna i en separat fil."
+   },
+   "optHold": {
+      "message": "Håll ned höger musknapp och "
+   },
+   "optIm": {
+      "message": "Ladda från fil"
+   },
+   "optImDesc": {
+      "message": "Återställ sparade inställningar från en fil."
+   },
+   "optLeft": {
+      "message": "Växla till vänster flik"
+   },
+   "optMB": {
+      "message": "flytta musen nedåt"
+   },
+   "optMBL": {
+      "message": "flytta musen diagonalt nere till vänster"
+   },
+   "optMBR": {
+      "message": "flytta musen diagonalt nere till höger"
+   },
+   "optML": {
+      "message": "flytta musen till vänster"
+   },
+   "optMR": {
+      "message": "flytta musen åt höger"
+   },
+   "optMT": {
+      "message": "flytta musen uppåt"
+   },
+   "optMTL": {
+      "message": "flytta musen diagonalt uppe till vänster"
+   },
+   "optMTR": {
+      "message": "flytta musen diagonalt uppe till höger"
+   },
+   "optMW": {
+      "message": "Minimera fönster"
+   },
+   "optMove": {
+      "message": "Musrörelser"
+   },
+   "optNewTab": {
+      "message": "Öppna ny flik"
+   },
+   "optNext": {
+      "message": "Framåt en sida"
+   },
+   "optNot": {
+      "message": "Ingen aktivitet"
+   },
+   "optPin": {
+      "message": "Fäst flik / Ta bort flik"
+   },
+   "optPrev": {
+      "message": "Bakåt en sida"
+   },
+   "optRefresh": {
+      "message": "Ladda om fliken"
+   },
+   "optRes": {
+      "message": "Återställ inställningar"
+   },
+   "optResDesc": {
+      "message": "Återställ till standardinställningarna."
+   },
+   "optRestore": {
+      "message": "Öppna stängd flik igen"
+   },
+   "optRight": {
+      "message": "Växla till höger flik"
+   },
+   "optSB": {
+      "message": "rulla mushjulet nedåt"
+   },
+   "optST": {
+      "message": "rulla mushjulet uppåt"
+   },
+   "optTitle": {
+      "message": "Inställningar"
+   },
+   "optTop": {
+      "message": "Rulla till början"
+   },
+   "optWheel": {
+      "message": "Mushjulets rörelse"
+   }
+}

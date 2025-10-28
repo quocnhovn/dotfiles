@@ -1,0 +1,116 @@
+{
+   "extDes": {
+      "message": "Gestisci il browser con i movimenti del mouse."
+   },
+   "extName": {
+      "message": "Gesti del mouse"
+   },
+   "optBottom": {
+      "message": "Scorri alla fine"
+   },
+   "optCO": {
+      "message": "Chiudi tutte le schede tranne quella corrente"
+   },
+   "optCW": {
+      "message": "Chiudi la finestra"
+   },
+   "optClose": {
+      "message": "Chiudi la scheda corrente"
+   },
+   "optDBL": {
+      "message": "Duplica la scheda corrente"
+   },
+   "optEx": {
+      "message": "Salva in File"
+   },
+   "optExDesc": {
+      "message": "Salvataggio delle impostazioni in un file."
+   },
+   "optHold": {
+      "message": "Tenere premuto il tasto destro, "
+   },
+   "optIm": {
+      "message": "Restore from File"
+   },
+   "optImDesc": {
+      "message": "Ripristino le impostazioni da un backup."
+   },
+   "optLeft": {
+      "message": "Passa alla scheda precedente"
+   },
+   "optMB": {
+      "message": "spostare il mouse in basso"
+   },
+   "optMBL": {
+      "message": "spostare il mouse diagonalmente in  basso a sinistra"
+   },
+   "optMBR": {
+      "message": "spostare il mouse diagonalmente in  basso a destra"
+   },
+   "optML": {
+      "message": "spostare il mouse a sinistra"
+   },
+   "optMR": {
+      "message": "spostare il mouse a destra"
+   },
+   "optMT": {
+      "message": "spostare il mouse su"
+   },
+   "optMTL": {
+      "message": "spostare il mouse diagonalmente in alto a sinistra"
+   },
+   "optMTR": {
+      "message": "spostare il mouse diagonalmente in alto a destra"
+   },
+   "optMW": {
+      "message": "Minimizza la finestra"
+   },
+   "optMove": {
+      "message": "Gesti con movimento del mouse"
+   },
+   "optNewTab": {
+      "message": "Apri nuova scheda"
+   },
+   "optNext": {
+      "message": "Vai alla pagina successiva"
+   },
+   "optNot": {
+      "message": "Nessuna azione"
+   },
+   "optPin": {
+      "message": "Blocca/Sblocca scheda"
+   },
+   "optPrev": {
+      "message": "Vai alla pagina precedente"
+   },
+   "optRefresh": {
+      "message": "Aggiorna la scheda corrente"
+   },
+   "optRes": {
+      "message": "Ripristina i valori"
+   },
+   "optResDesc": {
+      "message": "Ripristina tutte le gesture e le impostazioni di default."
+   },
+   "optRestore": {
+      "message": "Riapri scheda chiusa"
+   },
+   "optRight": {
+      "message": "Passa alla scheda successiva"
+   },
+   "optSB": {
+      "message": "ruotare la rotella verso il basso"
+   },
+   "optST": {
+      "message": "ruotare la rotella verso l'alto"
+   },
+   "optTitle": {
+      "message": "Impostazioni"
+   },
+   "optTop": {
+      "message": "Scorri all'inizio"
+   },
+   "optWheel": {
+      "message": "Gesti con la rotella del mouse"
+   }
+}

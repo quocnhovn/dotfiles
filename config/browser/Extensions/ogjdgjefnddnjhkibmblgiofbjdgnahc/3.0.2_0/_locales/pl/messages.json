@@ -1,0 +1,116 @@
+{
+   "extDes": {
+      "message": "Zarządzanie przeglądarką internetową ruchami myszy."
+   },
+   "extName": {
+      "message": "Gesty myszy"
+   },
+   "optBottom": {
+      "message": "Dół strony"
+   },
+   "optCO": {
+      "message": "Zamknij wszystkie inne karty"
+   },
+   "optCW": {
+      "message": "Zamknij okno"
+   },
+   "optClose": {
+      "message": "Zamknij kartę"
+   },
+   "optDBL": {
+      "message": "Duplikuj kartę"
+   },
+   "optEx": {
+      "message": "Zapisz do pliku"
+   },
+   "optExDesc": {
+      "message": "Ustawienia kopii zapasowych."
+   },
+   "optHold": {
+      "message": "Przytrzymaj prawy przycisk i "
+   },
+   "optIm": {
+      "message": "Przywróć z pliku"
+   },
+   "optImDesc": {
+      "message": "Przywracanie ustawień z kopii zapasowej."
+   },
+   "optLeft": {
+      "message": "Poprzednia karta"
+   },
+   "optMB": {
+      "message": "przesuń mysz w dół"
+   },
+   "optMBL": {
+      "message": "przesuń mysz w lewo w dół"
+   },
+   "optMBR": {
+      "message": "przesuń mysz w prawo w dół"
+   },
+   "optML": {
+      "message": "przesuń mysz w lewo"
+   },
+   "optMR": {
+      "message": "przesuń mysz w prawo"
+   },
+   "optMT": {
+      "message": "przesuń mysz do góry"
+   },
+   "optMTL": {
+      "message": "przesuń mysz w górę w lewo"
+   },
+   "optMTR": {
+      "message": "przesuń mysz w górę w prawo"
+   },
+   "optMW": {
+      "message": "Zminimalizuj okno"
+   },
+   "optMove": {
+      "message": "Ruch myszy"
+   },
+   "optNewTab": {
+      "message": "Otwórz Nową kartę"
+   },
+   "optNext": {
+      "message": "Przejdź do następnej strony"
+   },
+   "optNot": {
+      "message": "Nie wybrano"
+   },
+   "optPin": {
+      "message": "Przełącz przypięcie strony"
+   },
+   "optPrev": {
+      "message": "Przejdź do poprzedniej strony"
+   },
+   "optRefresh": {
+      "message": "Odśwież stronę"
+   },
+   "optRes": {
+      "message": "Przywróć do wartości domyślnych"
+   },
+   "optResDesc": {
+      "message": "Przywróć wszystkie gesty i ustawienia do wartości domyślnych."
+   },
+   "optRestore": {
+      "message": "Przywróć kartę"
+   },
+   "optRight": {
+      "message": "Następna karta"
+   },
+   "optSB": {
+      "message": "przewiń na dół"
+   },
+   "optST": {
+      "message": "przewiń do góry"
+   },
+   "optTitle": {
+      "message": "Ustawienia"
+   },
+   "optTop": {
+      "message": "Góra strony"
+   },
+   "optWheel": {
+      "message": "Gest Rolką"
+   }
+}

@@ -1,0 +1,116 @@
+{
+   "extDes": {
+      "message": "Spravujte prohlížeč pohybem myši."
+   },
+   "extName": {
+      "message": "Pohybové příkazy"
+   },
+   "optBottom": {
+      "message": "Přejít na konec"
+   },
+   "optCO": {
+      "message": "Zavřít všechny ostatní karty"
+   },
+   "optCW": {
+      "message": "Zavřít okno"
+   },
+   "optClose": {
+      "message": "Zavřít kartu"
+   },
+   "optDBL": {
+      "message": "Rozdvojit kartu"
+   },
+   "optEx": {
+      "message": "Uložit do souboru"
+   },
+   "optExDesc": {
+      "message": "Můžete zvolit export nastavení do souboru .txt, který můžete použít v druhém počítači."
+   },
+   "optHold": {
+      "message": "Podržte pravé tlačítko myši, "
+   },
+   "optIm": {
+      "message": "Načíst ze souboru"
+   },
+   "optImDesc": {
+      "message": "Obnovení nastavení ze zálohy."
+   },
+   "optLeft": {
+      "message": "Předchozí karta"
+   },
+   "optMB": {
+      "message": "pohněte myší dolů"
+   },
+   "optMBL": {
+      "message": "pohněte myší diagonalně doleva dolů"
+   },
+   "optMBR": {
+      "message": "pohněte myší diagonalně doprava dolů"
+   },
+   "optML": {
+      "message": "pohněte myší doleva"
+   },
+   "optMR": {
+      "message": "pohněte myší doprava"
+   },
+   "optMT": {
+      "message": "pohněte myší nahoru"
+   },
+   "optMTL": {
+      "message": "pohněte myší diagonalně nahoru doleva"
+   },
+   "optMTR": {
+      "message": "pohněte myší diagonalně nahoru doprava"
+   },
+   "optMW": {
+      "message": "Minimalizovat okno"
+   },
+   "optMove": {
+      "message": "Pohyb"
+   },
+   "optNewTab": {
+      "message": "Nová karta"
+   },
+   "optNext": {
+      "message": "Přejít na další stránku"
+   },
+   "optNot": {
+      "message": "Není vybráno"
+   },
+   "optPin": {
+      "message": "Připnout kartu"
+   },
+   "optPrev": {
+      "message": "Přejít na předešlou stránku"
+   },
+   "optRefresh": {
+      "message": "Načíst kartu znovu"
+   },
+   "optRes": {
+      "message": "Výchozí nastavení"
+   },
+   "optResDesc": {
+      "message": "Resetujte nastavení na původní konfiguraci."
+   },
+   "optRestore": {
+      "message": "Otevřít naposledy zavřenou kartu"
+   },
+   "optRight": {
+      "message": "Další karta"
+   },
+   "optSB": {
+      "message": "rolujte kolečkem myši dolů"
+   },
+   "optST": {
+      "message": "rolujte kolečkem myši nahoru"
+   },
+   "optTitle": {
+      "message": "Nastavení"
+   },
+   "optTop": {
+      "message": "Přejít na začátek"
+   },
+   "optWheel": {
+      "message": "Posunovací gesto"
+   }
+}
