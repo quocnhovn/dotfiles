@@ -1,0 +1,116 @@
+{
+   "extDes": {
+      "message": "마우스 움직임으로 브라우저를 관리하십시오."
+   },
+   "extName": {
+      "message": "마우스 제스처"
+   },
+   "optBottom": {
+      "message": "맨 아래로"
+   },
+   "optCO": {
+      "message": "모든 다른 탭 닫기"
+   },
+   "optCW": {
+      "message": "창 닫기"
+   },
+   "optClose": {
+      "message": "탭 닫기"
+   },
+   "optDBL": {
+      "message": "탭 복제"
+   },
+   "optEx": {
+      "message": "파일에 저장"
+   },
+   "optExDesc": {
+      "message": "설정을 TXT 파일로 내보내기."
+   },
+   "optHold": {
+      "message": "마우스 오른쪽 버튼을 누른채, "
+   },
+   "optIm": {
+      "message": "파일에서 복구"
+   },
+   "optImDesc": {
+      "message": "백업된 파일은 이 PC 또는 다른 PC의 파일일 수 있습니다."
+   },
+   "optLeft": {
+      "message": "이전 탭"
+   },
+   "optMB": {
+      "message": "아래로 움직인다"
+   },
+   "optMBL": {
+      "message": "대각선방향으로 왼쪽 아래로 움직인다"
+   },
+   "optMBR": {
+      "message": "대각선방향으로 오른쪽 아래로 움직인다"
+   },
+   "optML": {
+      "message": "왼쪽으로 움직인다"
+   },
+   "optMR": {
+      "message": "오른쪽으로 움직인다"
+   },
+   "optMT": {
+      "message": "위로 움직인다"
+   },
+   "optMTL": {
+      "message": "대각선방향으로 왼쪽 상단로 움직인다"
+   },
+   "optMTR": {
+      "message": "대각선방향으로 오른쪽 상단으로 움직인다"
+   },
+   "optMW": {
+      "message": "창 크기 최소화"
+   },
+   "optMove": {
+      "message": "마우스 움직임"
+   },
+   "optNewTab": {
+      "message": "새 탭"
+   },
+   "optNext": {
+      "message": "다음 페이지로 가기"
+   },
+   "optNot": {
+      "message": "선택되지 않음"
+   },
+   "optPin": {
+      "message": "탭 고정 전환"
+   },
+   "optPrev": {
+      "message": "이전 페이지로 가기"
+   },
+   "optRefresh": {
+      "message": "탭 새로고침"
+   },
+   "optRes": {
+      "message": "기본값으로 초기화"
+   },
+   "optResDesc": {
+      "message": "모든 동작과 설정을 기본값으로 설정합니다."
+   },
+   "optRestore": {
+      "message": "닫은 탭 다시 열기"
+   },
+   "optRight": {
+      "message": "다음 탭"
+   },
+   "optSB": {
+      "message": "아래로 스크롤"
+   },
+   "optST": {
+      "message": "위로 스크롤"
+   },
+   "optTitle": {
+      "message": "설정"
+   },
+   "optTop": {
+      "message": "맨 위로"
+   },
+   "optWheel": {
+      "message": "스크롤 동작"
+   }
+}

@@ -1,0 +1,116 @@
+{
+   "extDes": {
+      "message": "U kunt muisbewegingen gebruiken om verschillende acties uit te voeren."
+   },
+   "extName": {
+      "message": "Muisbewegingen"
+   },
+   "optBottom": {
+      "message": "Naar onderkant schuiven"
+   },
+   "optCO": {
+      "message": "Overige tabbladen sluiten"
+   },
+   "optCW": {
+      "message": "Venster sluiten"
+   },
+   "optClose": {
+      "message": "Tabblad sluiten"
+   },
+   "optDBL": {
+      "message": "Tabblad kopiëren"
+   },
+   "optEx": {
+      "message": "Opslaan in bestand"
+   },
+   "optExDesc": {
+      "message": "Door te klikken op de opslaan knop, zullen de instellingen opgeslagen worden als .txt bestand."
+   },
+   "optHold": {
+      "message": "Druk op de rechtermuisknop en "
+   },
+   "optIm": {
+      "message": "Laden uit bestand"
+   },
+   "optImDesc": {
+      "message": "Herstel opgeslagen instellingen vanuit een bestand."
+   },
+   "optLeft": {
+      "message": "Overschakelen naar linkertabblad"
+   },
+   "optMB": {
+      "message": "beweeg de muis omlaag"
+   },
+   "optMBL": {
+      "message": "beweeg de muis diagonaal linksonder"
+   },
+   "optMBR": {
+      "message": "beweeg de muis diagonaal rechtsonder"
+   },
+   "optML": {
+      "message": "beweeg de muis naar links"
+   },
+   "optMR": {
+      "message": "beweeg de muis naar rechts"
+   },
+   "optMT": {
+      "message": "beweeg de muis omhoog"
+   },
+   "optMTL": {
+      "message": "beweeg de muis diagonaal linksboven"
+   },
+   "optMTR": {
+      "message": "beweeg de muis diagonaal rechtsboven"
+   },
+   "optMW": {
+      "message": "Minimaliseert het huidige venster"
+   },
+   "optMove": {
+      "message": "Muisbeweging"
+   },
+   "optNewTab": {
+      "message": "Nieuw tabblad openen"
+   },
+   "optNext": {
+      "message": "Volgende pagina"
+   },
+   "optNot": {
+      "message": "Geen actie"
+   },
+   "optPin": {
+      "message": "Tabblad vastmaken/losmaken"
+   },
+   "optPrev": {
+      "message": "Vorige pagina"
+   },
+   "optRefresh": {
+      "message": "Vernieuw Tabblad"
+   },
+   "optRes": {
+      "message": "Instellingen opnieuw instellen"
+   },
+   "optResDesc": {
+      "message": "Instellingen terugzetten op de standaardwaarden."
+   },
+   "optRestore": {
+      "message": "Gesloten tabblad opnieuw openen"
+   },
+   "optRight": {
+      "message": "Overschakelen naar rechtertabblad"
+   },
+   "optSB": {
+      "message": "scroll het muiswiel omlaag"
+   },
+   "optST": {
+      "message": "scroll het muiswiel omhoog"
+   },
+   "optTitle": {
+      "message": "Instellingen"
+   },
+   "optTop": {
+      "message": "Naar bovenkant schuiven"
+   },
+   "optWheel": {
+      "message": "Muiswielbeweging"
+   }
+}

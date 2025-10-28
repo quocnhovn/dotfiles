@@ -1,0 +1,116 @@
+{
+   "extDes": {
+      "message": "Gérez le navigateur avec les mouvements de la souris."
+   },
+   "extName": {
+      "message": "Mouvement de la souris"
+   },
+   "optBottom": {
+      "message": "Bas de page"
+   },
+   "optCO": {
+      "message": "Fermer tous les autres onglets"
+   },
+   "optCW": {
+      "message": "Fermer la fenêtre"
+   },
+   "optClose": {
+      "message": "Fermer l'onglet actuel"
+   },
+   "optDBL": {
+      "message": "Dupliquer l'onglet actuel"
+   },
+   "optEx": {
+      "message": "Enregistrer dans le fichier"
+   },
+   "optExDesc": {
+      "message": "Pour enregistrer une copie de sauvegarde des paramètres."
+   },
+   "optHold": {
+      "message": "Maintenez le bouton droit, "
+   },
+   "optIm": {
+      "message": "Restaurer à partir du fichier"
+   },
+   "optImDesc": {
+      "message": "Pour restaurer la configuration à partir d'une sauvegarde de fichiers."
+   },
+   "optLeft": {
+      "message": "Revenir à l'onglet précédent"
+   },
+   "optMB": {
+      "message": "déplacez la souris vers le bas"
+   },
+   "optMBL": {
+      "message": "déplacez la souris en diagonale vers le bas à gauche"
+   },
+   "optMBR": {
+      "message": "déplacez la souris en diagonale vers le bas à droite"
+   },
+   "optML": {
+      "message": "déplacez la souris vers la gauch"
+   },
+   "optMR": {
+      "message": "déplacez la souris vers la droite"
+   },
+   "optMT": {
+      "message": "déplacez la souris vers le haut"
+   },
+   "optMTL": {
+      "message": "déplacez la souris en diagonale vers le haut à gauche"
+   },
+   "optMTR": {
+      "message": "déplacez la souris en diagonale vers le haut à droite"
+   },
+   "optMW": {
+      "message": "Minimiser la fenêtre"
+   },
+   "optMove": {
+      "message": "Mouvement"
+   },
+   "optNewTab": {
+      "message": "Ouvrir un nouvel onglet"
+   },
+   "optNext": {
+      "message": "Aller à la page suivante"
+   },
+   "optNot": {
+      "message": "Aucune action"
+   },
+   "optPin": {
+      "message": "Actionner le collage d'onglet"
+   },
+   "optPrev": {
+      "message": "Aller à la page précédente"
+   },
+   "optRefresh": {
+      "message": "Actualiser l'onglet actuel"
+   },
+   "optRes": {
+      "message": "Revenir aux paramètres par défaut"
+   },
+   "optResDesc": {
+      "message": "Pour restaurer tous les mouvements et paramètres aux valeurs par défaut."
+   },
+   "optRestore": {
+      "message": "Rouvrir un onglet fermé"
+   },
+   "optRight": {
+      "message": "Passer à l'onglet suivant"
+   },
+   "optSB": {
+      "message": "défilement vers le bas"
+   },
+   "optST": {
+      "message": "défilement vers le haut"
+   },
+   "optTitle": {
+      "message": "Paramètres"
+   },
+   "optTop": {
+      "message": "Haut de page"
+   },
+   "optWheel": {
+      "message": "Mouvement de molette"
+   }
+}

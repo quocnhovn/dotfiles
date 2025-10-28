@@ -1,0 +1,116 @@
+{
+   "extDes": {
+      "message": "Cử chỉ chuột cho phép bạn điều khiển trình duyệt bằng các thao tác đơn giản."
+   },
+   "extName": {
+      "message": "Thao tác Chuột"
+   },
+   "optBottom": {
+      "message": "Cuộn xuống dưới cùng"
+   },
+   "optCO": {
+      "message": "Đóng các tab khác"
+   },
+   "optCW": {
+      "message": "Đóng cửa sổ trình duyệt"
+   },
+   "optClose": {
+      "message": "Đóng tab"
+   },
+   "optDBL": {
+      "message": "Tab trùng lặp"
+   },
+   "optEx": {
+      "message": "Lưu vào tập tin"
+   },
+   "optExDesc": {
+      "message": "Lưu cài đặt dưới dạng tệp cục bộ."
+   },
+   "optHold": {
+      "message": "Giữ nút chuột phải và "
+   },
+   "optIm": {
+      "message": "Khôi phục từ tập tin"
+   },
+   "optImDesc": {
+      "message": "Khôi phục các cài đặt đã lưu từ tệp."
+   },
+   "optLeft": {
+      "message": "Chuyển sang tab trái"
+   },
+   "optMB": {
+      "message": "di chuyển chuột xuống"
+   },
+   "optMBL": {
+      "message": "di chuyển chuột theo đường chéo dưới cùng bên trái"
+   },
+   "optMBR": {
+      "message": "di chuyển chuột theo đường chéo dưới cùng bên phải"
+   },
+   "optML": {
+      "message": "di chuyển chuột sang trái"
+   },
+   "optMR": {
+      "message": "di chuyển chuột sang phải"
+   },
+   "optMT": {
+      "message": "di chuyển chuột lên"
+   },
+   "optMTL": {
+      "message": "di chuyển chuột theo đường chéo trên cùng bên trái"
+   },
+   "optMTR": {
+      "message": "di chuyển chuột theo đường chéo trên cùng bên phải"
+   },
+   "optMW": {
+      "message": "Giảm thiểu Window"
+   },
+   "optMove": {
+      "message": "Chuyển động chuột"
+   },
+   "optNewTab": {
+      "message": "Mở tab mới"
+   },
+   "optNext": {
+      "message": "Tua đi"
+   },
+   "optNot": {
+      "message": "Không có hành động"
+   },
+   "optPin": {
+      "message": "Ghim tab / Bỏ ghim tab"
+   },
+   "optPrev": {
+      "message": "Lùi"
+   },
+   "optRefresh": {
+      "message": "Làm mới"
+   },
+   "optRes": {
+      "message": "Đặt lại cài đặt"
+   },
+   "optResDesc": {
+      "message": "Khôi phục cài đặt với những giá trị mặc định."
+   },
+   "optRestore": {
+      "message": "Mở lại tab đã đóng"
+   },
+   "optRight": {
+      "message": "Chuyển sang tab phải"
+   },
+   "optSB": {
+      "message": "cuộn bánh xe chuột xuống"
+   },
+   "optST": {
+      "message": "cuộn bánh xe chuột lên"
+   },
+   "optTitle": {
+      "message": "Cài đặt"
+   },
+   "optTop": {
+      "message": "Cuộn lên đầu"
+   },
+   "optWheel": {
+      "message": "Di chuyển bánh xe chuột"
+   }
+}
