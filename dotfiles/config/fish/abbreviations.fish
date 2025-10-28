@@ -16,7 +16,13 @@ abbr -a gl git log --oneline
 abbr -a gss git stash save
 abbr -a gsp git stash pop
 
-# Laravel/PHP abbreviations
+# Notes and documentation
+abbr -a notes 'cd ~/notes && nvim nav.md'
+abbr -a daily 'cd ~/notes && nvim +ObsidianToday'
+abbr -a sync-notes 'cd ~/notes && ./sync-notes.sh'
+abbr -a note 'cd ~/notes && nvim +ObsidianNew'
+
+# Laravel specific
 abbr -a art php artisan
 abbr -a artisan php artisan
 abbr -a composer-dev composer install --dev
