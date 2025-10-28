@@ -1,0 +1,31 @@
+# System files
+.DS_Store
+Thumbs.db
+*~
+
+# Backup files
+*.bak
+*.backup
+*-backup-*
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# OS specific
+.Trash/
+.cache/
+
+# Neovim specific
+config/nvim/lazy-lock.json
+config/nvim/.luarc.json
+
+# Fish shell
+config/fish/fish_variables
