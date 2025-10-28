@@ -1,1 +1,0 @@
-adguard.console.info("Initializing adguard"),adguard.initialize();
