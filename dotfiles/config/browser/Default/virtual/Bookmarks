@@ -1,0 +1,124 @@
+{
+   "checksum": "1a3b61293cc819e9ea604c7b1cafb473",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13405317463019517",
+            "date_last_used": "13406056588640605",
+            "guid": "a88455f1-d264-4b51-84ae-0ff06cde4016",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/"
+         }, {
+            "date_added": "13405391016255140",
+            "date_last_used": "13406109891859440",
+            "guid": "b4c120a3-f212-4a74-8b92-8145bbe75193",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13405399983069740",
+            "date_last_used": "13406046745572761",
+            "guid": "cfed671b-6514-4dc4-b4d3-cc8ac54ac2bf",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Gemini",
+            "type": "url",
+            "url": "https://gemini.google.com/app"
+         }, {
+            "date_added": "13405403407711514",
+            "date_last_used": "13406056910968688",
+            "guid": "ab8af9a1-23e5-4e12-98b9-453dfd34d4b7",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Codelist",
+            "type": "url",
+            "url": "https://codelist.cc/v3/"
+         }, {
+            "date_added": "13405526581175864",
+            "date_last_used": "13406111098582700",
+            "guid": "7065b1cd-c7b3-4645-91a6-5bd266e83ce4",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Zalo",
+            "type": "url",
+            "url": "https://chat.zalo.me/"
+         }, {
+            "date_added": "13405663384300928",
+            "date_last_used": "13406062952095673",
+            "guid": "057e4eee-62df-4580-8a29-c8d4dda3ad6c",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Grok",
+            "type": "url",
+            "url": "https://grok.com/"
+         } ],
+         "date_added": "13405315691387840",
+         "date_last_used": "0",
+         "date_modified": "13406056699105284",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13405528765752097",
+            "date_last_used": "0",
+            "guid": "0a61b31e-e942-4c44-afe4-912ed0baf8e3",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Chrome Web Store - Extensions",
+            "type": "url",
+            "url": "https://chromewebstore.google.com/category/extensions?utm_source=ext_sidebar&hl=en-US&pli=1"
+         }, {
+            "date_added": "13406056699105284",
+            "date_last_used": "13406101297741085",
+            "guid": "d054f8a6-f0d6-4e35-a52f-5d48c4ba537e",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Portal",
+            "type": "url",
+            "url": "https://portal.inet.vn/"
+         } ],
+         "date_added": "13405315691387855",
+         "date_last_used": "0",
+         "date_modified": "13406093766466901",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13405315691387864",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
